@@ -1,0 +1,62 @@
+{
+	"clips": [
+		{
+			"end": 0.611887666554497,
+			"loop": false,
+			"name": "Attack1_1",
+			"sourceAnim": "Attack1",
+			"speed": 1.0,
+			"start": 0.0
+		},
+		{
+			"end": 1.20833337306976,
+			"loop": false,
+			"name": "Attack1_2",
+			"sourceAnim": "Attack1",
+			"speed": 1.0,
+			"start": 0.611887666554497
+		},
+		{
+			"end": 1.34584664536741,
+			"loop": true,
+			"name": "Emote2_1",
+			"sourceAnim": "Emote2",
+			"speed": 1.0,
+			"start": 0.0
+		},
+		{
+			"end": 2.5,
+			"loop": true,
+			"name": "Emote2_2",
+			"sourceAnim": "Emote2",
+			"speed": 1.0,
+			"start": 1.34584664536741
+		},
+		{
+			"end": 0.5,
+			"loop": true,
+			"name": "Run-loop_1",
+			"sourceAnim": "Run-loop",
+			"speed": 1.0,
+			"start": 0.0
+		},
+		{
+			"end": 0.5,
+			"loop": true,
+			"name": "Run-loop_2",
+			"sourceAnim": "Run-loop",
+			"speed": 2.0,
+			"start": 0.0
+		},
+		{
+			"end": 0.5,
+			"loop": true,
+			"name": "Run-loop_3",
+			"sourceAnim": "Run-loop",
+			"speed": 0.1,
+			"start": 0.0
+		}
+	],
+	"modelFile": "3DGodotRobot.glb",
+	"sourceAnimationName": "Attack1"
+}
