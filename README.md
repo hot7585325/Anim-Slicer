@@ -29,7 +29,7 @@ It acts as a **bridge between 3D Artists and Developers**, ensuring that animati
 
 ## 📦 Installation
 
-Go to the [Releases page]([AnimSlicer](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs) ) to download the latest executable.
+Go to the [Releases page]([AnimSlicer](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs)] to download the latest executable.
 
 ## 📄 License
 
