@@ -2,7 +2,7 @@
 
 **A visual tool to slice GLB animations and generate config for Three.js / React Three Fiber.**
 
-[Download on [Itch.io]([http://itch.io/](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs)]
+[Download on [Itch.io]([AnimSlicer](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs)]
 
 ## 💡 Why this tool?
 
@@ -29,7 +29,7 @@ It acts as a **bridge between 3D Artists and Developers**, ensuring that animati
 
 ## 📦 Installation
 
-Go to the [Releases page](你的 [Itch.io]([http://itch.io/](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs) 連結) to download the latest executable.
+Go to the [Releases page]([AnimSlicer](https://hot7585325.itch.io/animslicer-visual-glb-animation-splitter-for-threejs) ) to download the latest executable.
 
 ## 📄 License
 
